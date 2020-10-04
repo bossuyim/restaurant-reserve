@@ -1,4 +1,4 @@
 # restaurant-reserve
 
-npm install to install all dependencies
-npm start to start the local server
+1. **npm install** to install all dependencies <br />
+2. **npm start** to start the local server
